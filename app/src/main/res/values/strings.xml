@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Donchenko1Task</string>
+    <string name="parameter_message">Переданный параметр: %1$s</string>
+
+    <string name="app_name1">Donchenko1Task</string>
+    <string name="button_text">Перейти к Activity 2</string>
+</resources>
